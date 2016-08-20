@@ -2,4 +2,8 @@
     .pure-u-1 > div > ul > li > a {
         font-size: 60px;
     }
+
+    #correct {
+        display: none !important;
+    }
 }
