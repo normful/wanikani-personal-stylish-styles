@@ -1,0 +1,5 @@
+@-moz-document url("https://www.wanikani.com/lesson") {
+    #vocabulary > div > ul > li > a {
+        font-size: 60px;
+    }
+}
